@@ -1,0 +1,11 @@
+table,td,th{
+ 			border-style:solid;
+ 			border-collapse: collapse;
+ 		}
+th{
+	background-color:red; 
+}
+*{background-color: yellow;}
+td{background-color: green;}
+li{background-color: green;}
+table {margin-left: 250px;}
